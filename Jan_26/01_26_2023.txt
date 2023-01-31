@@ -3,13 +3,11 @@
  - git show HEAD
 
  #How to undo the last commit?
-
  - git checkout HEAD <filename>
 
  #How to check the git status?
  
- - git show
-
+ - git status
 
 
 Summary: git checkout HEAD filename: Discards changes in the working directory.
